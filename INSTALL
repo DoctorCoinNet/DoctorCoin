@@ -1,0 +1,9 @@
+Building DOCTORCOIN
+
+See doc/readme-qt.rst for instructions on building DOCTORCOIN QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DOCTORCOIN.
+
+See doc/build-*.txt for instructions on building doctorcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of DOCTORCOIN.
