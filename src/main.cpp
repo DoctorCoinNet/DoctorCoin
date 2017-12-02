@@ -2485,7 +2485,7 @@ bool LoadBlockIndex(bool fAllowNew)
 
     if (fTestNet)
     {
-        pchMessageStart[0] = 0xg8;
+        pchMessageStart[0] = 0xfc;
         pchMessageStart[1] = 0xf7;
         pchMessageStart[2] = 0x67;
         pchMessageStart[3] = 0x3d;
