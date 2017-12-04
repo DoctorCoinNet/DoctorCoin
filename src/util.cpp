@@ -985,13 +985,13 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\DOCTORCOIN
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\DOCTORCOIN
-    // Mac: ~/Library/Application Support/DOCTORCOIN
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\DoctorCoin
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\DoctorCoin
+    // Mac: ~/Library/Application Support/DoctorCoin
     // Unix: ~/.doctorcoin
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "DOCTORCOIN";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "DoctorCoin";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -1003,7 +1003,7 @@ boost::filesystem::path GetDefaultDataDir()
     // Mac
     pathRet /= "Library/Application Support";
     fs::create_directory(pathRet);
-    return pathRet / "DOCTORCOIN";
+    return pathRet / "DoctorCoin";
 #else
     // Unix
     return pathRet / ".doctorcoin";
@@ -1209,10 +1209,10 @@ void AddTimeData(const CNetAddr& ip, int64_t nTime)
                 if (!fMatch)
                 {
                     fDone = true;
-                    string strMessage = _("Warning: Please check that your computer's date and time are correct! If your clock is wrong DOCTORCOIN will not work properly.");
+                    string strMessage = _("Warning: Please check that your computer's date and time are correct! If your clock is wrong DoctorCoin will not work properly.");
                     strMiscWarning = strMessage;
                     printf("*** %s\n", strMessage.c_str());
-                    uiInterface.ThreadSafeMessageBox(strMessage+" ", string("DOCTORCOIN"), CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION);
+                    uiInterface.ThreadSafeMessageBox(strMessage+" ", string("DoctorCoin"), CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION);
                 }
             }
         }

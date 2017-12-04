@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About DOCTORCOIN</source>
-        <translation>O DOCTORCOINu</translation>
+        <source>About DoctorCoin</source>
+        <translation>O DoctorCoinu</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;DOCTORCOIN&lt;/b&gt; version</source>
-        <translation>Verze &lt;b&gt;DOCTORCOINu&lt;/b&gt; </translation>
+        <source>&lt;b&gt;DoctorCoin&lt;/b&gt; version</source>
+        <translation>Verze &lt;b&gt;DoctorCoinu&lt;/b&gt; </translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The DOCTORCOIN developers</source>
+Copyright © 2014 The DoctorCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,7 +63,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your DOCTORCOIN addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your DoctorCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -78,7 +78,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a DOCTORCOIN address</source>
+        <source>Sign a message to prove you own a DoctorCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -93,7 +93,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified DOCTORCOIN address</source>
+        <source>Verify a message to ensure it was signed with a specified DoctorCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -261,7 +261,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-58"/>
-        <source>DOCTORCOIN will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>DoctorCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -375,7 +375,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about DOCTORCOIN</source>
+        <source>Show information about DoctorCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -425,12 +425,12 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a DOCTORCOIN address</source>
+        <source>Send coins to a DoctorCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for DOCTORCOIN</source>
+        <source>Modify configuration options for DoctorCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -470,7 +470,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-200"/>
-        <source>DOCTORCOIN</source>
+        <source>DoctorCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -480,7 +480,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About DOCTORCOIN</source>
+        <source>&amp;About DoctorCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -537,12 +537,12 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>DOCTORCOIN client</source>
+        <source>DoctorCoin client</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to DOCTORCOIN network</source>
+        <source>%n active connection(s) to DoctorCoin network</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
@@ -657,7 +657,7 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid DOCTORCOIN address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid DoctorCoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -717,7 +717,7 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. DOCTORCOIN can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. DoctorCoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1037,7 +1037,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid DOCTORCOIN address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid DoctorCoin address.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1056,7 +1056,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>DOCTORCOIN-Qt</source>
+        <source>DoctorCoin-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1129,12 +1129,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start DOCTORCOIN after logging in to the system.</source>
+        <source>Automatically start DoctorCoin after logging in to the system.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start DOCTORCOIN on system login</source>
+        <source>&amp;Start DoctorCoin on system login</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1154,7 +1154,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the DOCTORCOIN client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the DoctorCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1164,7 +1164,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the DOCTORCOIN network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the DoctorCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1239,7 +1239,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting DOCTORCOIN.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting DoctorCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1254,7 +1254,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show DOCTORCOIN addresses in the transaction list or not.</source>
+        <source>Whether to show DoctorCoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1301,7 +1301,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting DOCTORCOIN.</source>
+        <source>This setting will take effect after restarting DoctorCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1320,7 +1320,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DOCTORCOIN network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DoctorCoin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1536,7 +1536,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the DOCTORCOIN-Qt help message to get a list with possible DOCTORCOIN command-line options.</source>
+        <source>Show the DoctorCoin-Qt help message to get a list with possible DoctorCoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1556,12 +1556,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>DOCTORCOIN - Debug window</source>
+        <source>DoctorCoin - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>DOCTORCOIN Core</source>
+        <source>DoctorCoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1571,7 +1571,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the DOCTORCOIN debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the DoctorCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1581,7 +1581,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the DOCTORCOIN RPC console.</source>
+        <source>Welcome to the DoctorCoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1740,7 +1740,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a DOCTORCOIN address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a DoctorCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1840,7 +1840,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid DOCTORCOIN address</source>
+        <source>WARNING: Invalid DoctorCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1914,7 +1914,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a DOCTORCOIN address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a DoctorCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1975,7 +1975,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this DOCTORCOIN address</source>
+        <source>Sign the message to prove you own this DoctorCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2007,7 +2007,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified DOCTORCOIN address</source>
+        <source>Verify the message to ensure it was signed with the specified DoctorCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2018,7 +2018,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a DOCTORCOIN address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a DoctorCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2028,7 +2028,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter DOCTORCOIN signature</source>
+        <source>Enter DoctorCoin signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2599,7 +2599,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>DOCTORCOIN version</source>
+        <source>DoctorCoin version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2784,7 +2784,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong DOCTORCOIN will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong DoctorCoin will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2979,7 +2979,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;DOCTORCOIN Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;DoctorCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3105,12 +3105,12 @@ for example: alertnotify=echo %%s | mail -s &quot;DOCTORCOIN Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  DOCTORCOIN is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  DoctorCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-98"/>
-        <source>DOCTORCOIN</source>
+        <source>DoctorCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3145,12 +3145,12 @@ for example: alertnotify=echo %%s | mail -s &quot;DOCTORCOIN Alert&quot; admin@f
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of DOCTORCOIN</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of DoctorCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart DOCTORCOIN to complete</source>
+        <source>Wallet needed to be rewritten: restart DoctorCoin to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3220,7 +3220,7 @@ for example: alertnotify=echo %%s | mail -s &quot;DOCTORCOIN Alert&quot; admin@f
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. DOCTORCOIN is probably already running.</source>
+        <source>Unable to bind to %s on this computer. DoctorCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

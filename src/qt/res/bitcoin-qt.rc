@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "DOCTORCOIN"
-            VALUE "FileDescription",    "DOCTORCOIN-Qt (OSS GUI client for DOCTORCOIN)"
+            VALUE "CompanyName",        "DoctorCoin"
+            VALUE "FileDescription",    "DoctorCoin-Qt (OSS GUI client for DoctorCoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "doctorcoin-qt"
-            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The NovaCoin & PPCoin developers, 2014 The DOCTORCOIN developers"
+            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The NovaCoin & PPCoin developers, 2014 The DoctorCoin developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
             VALUE "OriginalFilename",   "doctorcoin-qt.exe"
-            VALUE "ProductName",        "DOCTORCOIN-Qt"
+            VALUE "ProductName",        "DoctorCoin-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

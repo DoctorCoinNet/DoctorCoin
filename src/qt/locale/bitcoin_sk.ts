@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About DOCTORCOIN</source>
-        <translation>O DOCTORCOINe</translation>
+        <source>About DoctorCoin</source>
+        <translation>O DoctorCoine</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;DOCTORCOIN&lt;/b&gt; version</source>
-        <translation>verzia &lt;b&gt;DOCTORCOINu&lt;/b&gt;</translation>
+        <source>&lt;b&gt;DoctorCoin&lt;/b&gt; version</source>
+        <translation>verzia &lt;b&gt;DoctorCoinu&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The DOCTORCOIN developers</source>
+Copyright © 2014 The DoctorCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The DOCTORCOIN developers</translation>
+Copyright © 2014 The DoctorCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your DOCTORCOIN addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše DOCTORCOIN adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
+        <source>These are your DoctorCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše DoctorCoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a DOCTORCOIN address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto DOCTORCOIN adresu</translation>
+        <source>Sign a message to prove you own a DoctorCoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto DoctorCoin adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified DOCTORCOIN address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou DOCTORCOIN adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified DoctorCoin address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou DoctorCoin adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>DOCTORCOIN will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>DOCTORCOIN sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>DoctorCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>DoctorCoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about DOCTORCOIN</source>
-        <translation>Zobraziť informácie o DOCTORCOIN</translation>
+        <source>Show information about DoctorCoin</source>
+        <translation>Zobraziť informácie o DoctorCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a DOCTORCOIN address</source>
-        <translation>Poslať mince na DOCTORCOIN adresu</translation>
+        <source>Send coins to a DoctorCoin address</source>
+        <translation>Poslať mince na DoctorCoin adresu</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for DOCTORCOIN</source>
-        <translation>Upraviť možnosti konfigurácie pre DOCTORCOIN</translation>
+        <source>Modify configuration options for DoctorCoin</source>
+        <translation>Upraviť možnosti konfigurácie pre DoctorCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-200"/>
-        <source>DOCTORCOIN</source>
-        <translation>DOCTORCOIN</translation>
+        <source>DoctorCoin</source>
+        <translation>DoctorCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About DOCTORCOIN</source>
-        <translation>&amp;O DOCTORCOIN</translation>
+        <source>&amp;About DoctorCoin</source>
+        <translation>&amp;O DoctorCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>DOCTORCOIN client</source>
-        <translation>DOCTORCOIN klient</translation>
+        <source>DoctorCoin client</source>
+        <translation>DoctorCoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to DOCTORCOIN network</source>
-        <translation><numerusform>%n aktívne spojenie s DOCTORCOIN sieťov</numerusform><numerusform>%n aktívnych spojení s DOCTORCOIN sieťov</numerusform><numerusform>%n aktívnych spojení s DOCTORCOIN sieťou</numerusform></translation>
+        <source>%n active connection(s) to DoctorCoin network</source>
+        <translation><numerusform>%n aktívne spojenie s DoctorCoin sieťov</numerusform><numerusform>%n aktívnych spojení s DoctorCoin sieťov</numerusform><numerusform>%n aktívnych spojení s DoctorCoin sieťou</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -658,8 +658,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid DOCTORCOIN address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou DOCTORCOIN adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid DoctorCoin address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou DoctorCoin adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -718,8 +718,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. DOCTORCOIN can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. DOCTORCOIN už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. DoctorCoin can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. DoctorCoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1052,8 +1052,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid DOCTORCOIN address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou DOCTORCOIN adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid DoctorCoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou DoctorCoin adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1071,8 +1071,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>DOCTORCOIN-Qt</source>
-        <translation>DOCTORCOIN-Qt</translation>
+        <source>DoctorCoin-Qt</source>
+        <translation>DoctorCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1144,13 +1144,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start DOCTORCOIN after logging in to the system.</source>
-        <translation>Automaticky spustiť DOCTORCOIN po prihlásení sa do systému.</translation>
+        <source>Automatically start DoctorCoin after logging in to the system.</source>
+        <translation>Automaticky spustiť DoctorCoin po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start DOCTORCOIN on system login</source>
-        <translation>&amp;Spustiť DOCTORCOIN pri prihlásení do systému</translation>
+        <source>&amp;Start DoctorCoin on system login</source>
+        <translation>&amp;Spustiť DoctorCoin pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1169,8 +1169,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the DOCTORCOIN client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta DOCTORCOIN na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the DoctorCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta DoctorCoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1179,8 +1179,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the DOCTORCOIN network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti DOCTORCOIN cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the DoctorCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti DoctorCoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1254,8 +1254,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting DOCTORCOIN.</source>
-        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní DOCTORCOIN.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting DoctorCoin.</source>
+        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní DoctorCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1269,8 +1269,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show DOCTORCOIN addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť DOCTORCOIN adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show DoctorCoin addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť DoctorCoin adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1316,8 +1316,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting DOCTORCOIN.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní DOCTORCOIN.</translation>
+        <source>This setting will take effect after restarting DoctorCoin.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní DoctorCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DOCTORCOIN network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou DOCTORCOIN po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DoctorCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou DoctorCoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1551,8 +1551,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the DOCTORCOIN-Qt help message to get a list with possible DOCTORCOIN command-line options.</source>
-        <translation>Zobraziť DOCTORCOIN-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku DOCTORCOIN.</translation>
+        <source>Show the DoctorCoin-Qt help message to get a list with possible DoctorCoin command-line options.</source>
+        <translation>Zobraziť DoctorCoin-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku DoctorCoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1571,13 +1571,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>DOCTORCOIN - Debug window</source>
-        <translation>DOCTORCOIN - Ladiace okno</translation>
+        <source>DoctorCoin - Debug window</source>
+        <translation>DoctorCoin - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>DOCTORCOIN Core</source>
-        <translation>Jadro DOCTORCOIN</translation>
+        <source>DoctorCoin Core</source>
+        <translation>Jadro DoctorCoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1586,8 +1586,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the DOCTORCOIN debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte DOCTORCOIN súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
+        <source>Open the DoctorCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte DoctorCoin súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1596,8 +1596,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the DOCTORCOIN RPC console.</source>
-        <translation>Vitajte v konzole DOCTORCOIN RPC.</translation>
+        <source>Welcome to the DoctorCoin RPC console.</source>
+        <translation>Vitajte v konzole DoctorCoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1755,8 +1755,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a DOCTORCOIN address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte DOCTORCOIN adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a DoctorCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte DoctorCoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1855,8 +1855,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid DOCTORCOIN address</source>
-        <translation>UPOZORNENIE: Neplatná DOCTORCOIN adresa</translation>
+        <source>WARNING: Invalid DoctorCoin address</source>
+        <translation>UPOZORNENIE: Neplatná DoctorCoin adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1929,8 +1929,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a DOCTORCOIN address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte DOCTORCOIN adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a DoctorCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte DoctorCoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1990,8 +1990,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this DOCTORCOIN address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto DOCTORCOIN adresu</translation>
+        <source>Sign the message to prove you own this DoctorCoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto DoctorCoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2022,8 +2022,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified DOCTORCOIN address</source>
-        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou DOCTORCOIN adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified DoctorCoin address</source>
+        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou DoctorCoin adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a DOCTORCOIN address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte DOCTORCOIN adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a DoctorCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte DoctorCoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2043,8 +2043,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter DOCTORCOIN signature</source>
-        <translation>Zadajte DOCTORCOIN podpis</translation>
+        <source>Enter DoctorCoin signature</source>
+        <translation>Zadajte DoctorCoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2614,8 +2614,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>DOCTORCOIN version</source>
-        <translation>DOCTORCOIN verzia</translation>
+        <source>DoctorCoin version</source>
+        <translation>DoctorCoin verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2799,8 +2799,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong DOCTORCOIN will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny DOCTORCOIN nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong DoctorCoin will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny DoctorCoin nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2995,7 +2995,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;DOCTORCOIN Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;DoctorCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
@@ -3006,7 +3006,7 @@ rpcpassword=%s
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;DOCTORCOIN Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;DoctorCoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3130,13 +3130,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;DOCTORCOIN Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  DOCTORCOIN is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. DOCTORCOIN už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  DoctorCoin is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. DoctorCoin už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>DOCTORCOIN</source>
-        <translation>DOCTORCOIN</translation>
+        <source>DoctorCoin</source>
+        <translation>DoctorCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;DOCTORCOIN Alert&quot; admin@fo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of DOCTORCOIN</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu DOCTORCOIN</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of DoctorCoin</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu DoctorCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart DOCTORCOIN to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte DOCTORCOIN k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart DoctorCoin to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte DoctorCoin k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;DOCTORCOIN Alert&quot; admin@fo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. DOCTORCOIN is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. DOCTORCOIN je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. DoctorCoin is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. DoctorCoin je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>

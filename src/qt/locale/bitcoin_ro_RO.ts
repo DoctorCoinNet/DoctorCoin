@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About DOCTORCOIN</source>
-        <translation>Despre DOCTORCOIN</translation>
+        <source>About DoctorCoin</source>
+        <translation>Despre DoctorCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;DOCTORCOIN&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;DOCTORCOIN&lt;/b&gt;</translation>
+        <source>&lt;b&gt;DoctorCoin&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;DoctorCoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The DOCTORCOIN developers</source>
+Copyright © 2014 The DoctorCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The DOCTORCOIN developers</translation>
+Copyright © 2014 The DoctorCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your DOCTORCOIN addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele DOCTORCOIN pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your DoctorCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele DoctorCoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a DOCTORCOIN address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă DOCTORCOIN</translation>
+        <source>Sign a message to prove you own a DoctorCoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă DoctorCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified DOCTORCOIN address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă DOCTORCOIN</translation>
+        <source>Verify a message to ensure it was signed with a specified DoctorCoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă DoctorCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-58"/>
-        <source>DOCTORCOIN will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>DOCTORCOIN se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>DoctorCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>DoctorCoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about DOCTORCOIN</source>
-        <translation>Arată informații despre DOCTORCOIN</translation>
+        <source>Show information about DoctorCoin</source>
+        <translation>Arată informații despre DoctorCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a DOCTORCOIN address</source>
-        <translation>Trimite monede către o adresă DOCTORCOIN</translation>
+        <source>Send coins to a DoctorCoin address</source>
+        <translation>Trimite monede către o adresă DoctorCoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for DOCTORCOIN</source>
-        <translation>Modifică opțiuni de configurare pentru DOCTORCOIN</translation>
+        <source>Modify configuration options for DoctorCoin</source>
+        <translation>Modifică opțiuni de configurare pentru DoctorCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-200"/>
-        <source>DOCTORCOIN</source>
-        <translation>DOCTORCOIN</translation>
+        <source>DoctorCoin</source>
+        <translation>DoctorCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About DOCTORCOIN</source>
-        <translation>Despre DOCTORCOIN</translation>
+        <source>&amp;About DoctorCoin</source>
+        <translation>Despre DoctorCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>DOCTORCOIN client</source>
-        <translation>Clientul DOCTORCOIN</translation>
+        <source>DoctorCoin client</source>
+        <translation>Clientul DoctorCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to DOCTORCOIN network</source>
-        <translation><numerusform>%n conexiune activă la reteaua DOCTORCOIN</numerusform><numerusform>%n conexiuni active la reteaua DOCTORCOIN</numerusform><numerusform>%n conexiuni active la reteaua DOCTORCOIN</numerusform></translation>
+        <source>%n active connection(s) to DoctorCoin network</source>
+        <translation><numerusform>%n conexiune activă la reteaua DoctorCoin</numerusform><numerusform>%n conexiuni active la reteaua DoctorCoin</numerusform><numerusform>%n conexiuni active la reteaua DoctorCoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid DOCTORCOIN address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa DOCTORCOIN invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid DoctorCoin address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa DoctorCoin invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. DOCTORCOIN can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. DOCTORCOIN nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. DoctorCoin can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. DoctorCoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid DOCTORCOIN address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă DOCTORCOIN validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid DoctorCoin address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă DoctorCoin validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>DOCTORCOIN-Qt</source>
-        <translation>DOCTORCOIN-Qt</translation>
+        <source>DoctorCoin-Qt</source>
+        <translation>DoctorCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start DOCTORCOIN after logging in to the system.</source>
-        <translation>Pornește DOCTORCOIN imdiat după logarea în sistem</translation>
+        <source>Automatically start DoctorCoin after logging in to the system.</source>
+        <translation>Pornește DoctorCoin imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start DOCTORCOIN on system login</source>
-        <translation>$Pornește DOCTORCOIN la logarea în sistem</translation>
+        <source>&amp;Start DoctorCoin on system login</source>
+        <translation>$Pornește DoctorCoin la logarea în sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the DOCTORCOIN client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul DOCTORCOIN pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the DoctorCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul DoctorCoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the DOCTORCOIN network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua DOCTORCOIN prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the DoctorCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua DoctorCoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting DOCTORCOIN.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea DOCTORCOIN.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting DoctorCoin.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea DoctorCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show DOCTORCOIN addresses in the transaction list or not.</source>
-        <translation>Dacă să arate adrese DOCTORCOIN din lista de tranzacție sau nu.</translation>
+        <source>Whether to show DoctorCoin addresses in the transaction list or not.</source>
+        <translation>Dacă să arate adrese DoctorCoin din lista de tranzacție sau nu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting DOCTORCOIN.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea DOCTORCOIN.</translation>
+        <source>This setting will take effect after restarting DoctorCoin.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea DoctorCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DOCTORCOIN network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua DOCTORCOIN după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DoctorCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua DoctorCoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the DOCTORCOIN-Qt help message to get a list with possible DOCTORCOIN command-line options.</source>
-        <translation>Afișa mesajul de ajutor DOCTORCOIN-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă DOCTORCOIN.</translation>
+        <source>Show the DoctorCoin-Qt help message to get a list with possible DoctorCoin command-line options.</source>
+        <translation>Afișa mesajul de ajutor DoctorCoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă DoctorCoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>DOCTORCOIN - Debug window</source>
-        <translation>DOCTORCOIN - fereastră depanare</translation>
+        <source>DoctorCoin - Debug window</source>
+        <translation>DoctorCoin - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>DOCTORCOIN Core</source>
-        <translation>DOCTORCOIN Core</translation>
+        <source>DoctorCoin Core</source>
+        <translation>DoctorCoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the DOCTORCOIN debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare DOCTORCOIN din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the DoctorCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare DoctorCoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the DOCTORCOIN RPC console.</source>
-        <translation>Bine ati venit la consola DOCTORCOIN RPC.</translation>
+        <source>Welcome to the DoctorCoin RPC console.</source>
+        <translation>Bine ati venit la consola DoctorCoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a DOCTORCOIN address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă DOCTORCOIN(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a DoctorCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă DoctorCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid DOCTORCOIN address</source>
-        <translation>Atenție: Adresă DOCTORCOIN invalidă</translation>
+        <source>WARNING: Invalid DoctorCoin address</source>
+        <translation>Atenție: Adresă DoctorCoin invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1930,8 +1930,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a DOCTORCOIN address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă DOCTORCOIN(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a DoctorCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă DoctorCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1991,8 +1991,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this DOCTORCOIN address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă DOCTORCOIN</translation>
+        <source>Sign the message to prove you own this DoctorCoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă DoctorCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified DOCTORCOIN address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă DOCTORCOIN</translation>
+        <source>Verify the message to ensure it was signed with the specified DoctorCoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă DoctorCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a DOCTORCOIN address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă DOCTORCOIN(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a DoctorCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă DoctorCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter DOCTORCOIN signature</source>
-        <translation>Introduceti semnatura DOCTORCOIN</translation>
+        <source>Enter DoctorCoin signature</source>
+        <translation>Introduceti semnatura DoctorCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>DOCTORCOIN version</source>
-        <translation>Versiune DOCTORCOIN</translation>
+        <source>DoctorCoin version</source>
+        <translation>Versiune DoctorCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2800,8 +2800,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong DOCTORCOIN will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit DOCTORCOIN nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong DoctorCoin will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit DoctorCoin nu va functiona corect.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2996,7 +2996,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;DOCTORCOIN Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;DoctorCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
 Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=doctorcoinrpc
@@ -3005,7 +3005,7 @@ rpcpassword=%s
 Username-ul și parola NU TREBUIE să fie aceleași.
 Dacă fișierul nu există, creați-l cu drepturi de citire doar de către deținător.
 Este deasemenea recomandat să setați alertnotify pentru a fi notificat de probleme;
-de exemplu: alertnotify=echo %%s | mail -s &quot;DOCTORCOIN Alert&quot; admin@foo.com
+de exemplu: alertnotify=echo %%s | mail -s &quot;DoctorCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,13 +3130,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;DOCTORCOIN Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  DOCTORCOIN is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  DoctorCoin is probably already running.</source>
         <translation>Nu se poate obtine un lock pe directorul de date &amp;s. Blackoin probabil ruleaza deja.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>DOCTORCOIN</source>
-        <translation>DOCTORCOIN</translation>
+        <source>DoctorCoin</source>
+        <translation>DoctorCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;DOCTORCOIN Alert&quot; admin@fo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of DOCTORCOIN</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de DOCTORCOIN</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of DoctorCoin</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de DoctorCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart DOCTORCOIN to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați DOCTORCOIN pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart DoctorCoin to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați DoctorCoin pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;DOCTORCOIN Alert&quot; admin@fo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. DOCTORCOIN is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil DOCTORCOIN ruleaza</translation>
+        <source>Unable to bind to %s on this computer. DoctorCoin is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil DoctorCoin ruleaza</translation>
     </message>
     <message>
         <location line="-97"/>
