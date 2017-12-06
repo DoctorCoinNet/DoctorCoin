@@ -2249,8 +2249,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 20 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Generet mønter skal modne 20 blokke, før de kan blive brugt. Når du genererede denne blok blev det transmitteret til netværket, der tilføjes til blokkæden. Hvis det mislykkes at komme ind i kæden, vil dens tilstand ændres til &quot;ikke godkendt&quot;, og det vil ikke være brugbar. Dette kan lejlighedsvis ske, hvis en anden node genererer en blok et par sekunder efter din.</translation>
+        <source>Generated coins must mature 8 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation>Generet mønter skal modne 8 blokke, før de kan blive brugt. Når du genererede denne blok blev det transmitteret til netværket, der tilføjes til blokkæden. Hvis det mislykkes at komme ind i kæden, vil dens tilstand ændres til &quot;ikke godkendt&quot;, og det vil ikke være brugbar. Dette kan lejlighedsvis ske, hvis en anden node genererer en blok et par sekunder efter din.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2675,8 +2675,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 108818 or testnet: 118818)</source>
-        <translation>Lyt efter forbindelser på &lt;port&gt; (default: 108818 eller Testnet: 118818)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 26433 or testnet: 36433)</source>
+        <translation>Lyt efter forbindelser på &lt;port&gt; (default: 26433 eller Testnet: 36433)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2735,8 +2735,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 108816 or testnet: 118816)</source>
-        <translation>Spor efter JSON-RPC-forbindelser på &lt;port&gt; (default: 108816 eller Testnet: 118816)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 26434 or testnet: 36434)</source>
+        <translation>Spor efter JSON-RPC-forbindelser på &lt;port&gt; (default: 26434 eller Testnet: 36434)</translation>
     </message>
     <message>
         <location line="-11"/>

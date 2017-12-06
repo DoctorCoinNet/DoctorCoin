@@ -2248,8 +2248,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 20 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>コインを費やす前に発現されたコインは20ブロック間成熟しなければなりません。このブロックを発現させたときに、ブロックチェインに足すためにネットワークへ放送しました。ブロックチェインに追加失敗したばい、レベルは「受け入られていない」に変わって、費やせられない状況になります。自分のノードと他のノードと同時に新しいブロックを発現させたときに、時折に起こること。</translation>
+        <source>Generated coins must mature 8 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation>コインを費やす前に発現されたコインは8ブロック間成熟しなければなりません。このブロックを発現させたときに、ブロックチェインに足すためにネットワークへ放送しました。ブロックチェインに追加失敗したばい、レベルは「受け入られていない」に変わって、費やせられない状況になります。自分のノードと他のノードと同時に新しいブロックを発現させたときに、時折に起こること。</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2674,8 +2674,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 108818 or testnet: 118818)</source>
-        <translation>&lt;port&gt; で 接続をリスン (デフォルト: 108818かtestnet は 118818)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 26433 or testnet: 36433)</source>
+        <translation>&lt;port&gt; で 接続をリスン (デフォルト: 26433かtestnet は 36433)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2734,8 +2734,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 108816 or testnet: 118816)</source>
-        <translation>&lt;port&gt; で JSON-RPC 接続をリスン (デフォルト: 108816かtestnet は 118816)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 26434 or testnet: 36434)</source>
+        <translation>&lt;port&gt; で JSON-RPC 接続をリスン (デフォルト: 26434かtestnet は 36434)</translation>
     </message>
     <message>
         <location line="-11"/>

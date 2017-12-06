@@ -16,7 +16,7 @@ To Build
 cd src/
 make -f makefile.unix            +ACM- Headless doctorcoin
 
-See readme-qt.rst for instructions on building DOCTORCOIN QT,
+See readme-qt.rst for instructions on building DoctorCoin QT,
 the graphical doctorcoin.
 
 Dependencies
@@ -76,7 +76,7 @@ Dependency Build Instructions: Gentoo
 emerge -av1 --noreplace boost openssl sys-libs/db
 
 Take the following steps to build (no UPnP support):
- cd +ACQAew-DOCTORCOIN+AF8-DIR+AH0-/src
+ cd +ACQAew-DoctorCoin+AF8-DIR+AH0-/src
  make -f makefile.unix USE+AF8-UPNP+AD0-
  strip doctorcoind
 
