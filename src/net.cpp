@@ -590,7 +590,7 @@ bool CNode::Misbehaving(int howmuch)
     if (nMisbehavior >= GetArg("-banscore", 100))
     {
         int64_t banTime = GetTime()+GetArg("-bantime", 60*60*24);  // Default 24-hour ban
-        printf("Misbehaving: %s (%d -> %d) DOCTORONNECTING\n", addr.ToString().c_str(), nMisbehavior-howmuch, nMisbehavior);
+        printf("Misbehaving: %s (%d -> %d) DISCONNECTING\n", addr.ToString().c_str(), nMisbehavior-howmuch, nMisbehavior);
         {
             LOCK(cs_setBanned);
             if (setBanned[addr] < banTime)
@@ -1106,7 +1106,7 @@ void ThreadMapPort2(void* parg)
     struct UPNPDev * devlist = 0;
     char lanaddr[64];
 
-#ifndef UPNPDOCTOROVER_SUCCESS
+#ifndef UPNPDISCOVER_SUCCESS
     /* miniupnpc 1.5 */
     devlist = upnpDiscover(2000, multicastif, minissdpdpath, 0);
 #else
@@ -1140,7 +1140,7 @@ void ThreadMapPort2(void* parg)
         }
 
         string strDesc = "DoctorCoin " + FormatFullVersion();
-#ifndef UPNPDOCTOROVER_SUCCESS
+#ifndef UPNPDISCOVER_SUCCESS
         /* miniupnpc 1.5 */
         r = UPNP_AddPortMapping(urls.controlURL, data.first.servicetype,
                             port.c_str(), port.c_str(), lanaddr, strDesc.c_str(), "TCP", 0);
@@ -1168,7 +1168,7 @@ void ThreadMapPort2(void* parg)
             }
             if (i % 600 == 0) // Refresh every 20 minutes
             {
-#ifndef UPNPDOCTOROVER_SUCCESS
+#ifndef UPNPDISCOVER_SUCCESS
                 /* miniupnpc 1.5 */
                 r = UPNP_AddPortMapping(urls.controlURL, data.first.servicetype,
                                     port.c_str(), port.c_str(), lanaddr, strDesc.c_str(), "TCP", 0);
@@ -1229,7 +1229,7 @@ void MapPort()
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
-    {"163.44.193.10", "163.44.193.10"},
+    {"163.44.19.10", "163.44.193.10"},     
 };
 
 void ThreadDNSAddressSeed(void* parg)
